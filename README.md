@@ -1,6 +1,8 @@
-Freelance Software Developer - Laravel, PHP, NextJS, Python
+Freelance Software Developer from Germany
 
-My X https://x.com/juliangeissler0
+Laravel, PHP, NextJS, Python, Django
 
-My LinkedIn https://www.linkedin.com/in/juliangeissler/
+Twitter/X: https://x.com/juliangeissler0
+
+LinkedIn: https://www.linkedin.com/in/juliangeissler/
 
